@@ -35,4 +35,4 @@ story to save and show properly, and I decided to try out a more consistent and 
 
 With the bug-finding period of my day finally over, I successfully built out my introduction to myself in the Map Journal layout. This layout went through without a hitch, even if it wasn't quite as flexible with transitions as the Cascade layout. I even spent some time experiment with adding 3D to this using some resources Alison had sent me to build my first Map Scene! After building out this introduction, that had grown much longer than I had initially planned, I was excited to present it to the office the next day at our meeting, and send it out to the whole group. 
 
-## Link to my completed Story Map introduction!: https://arcg.is/aKPLS 
+## My completed [Story Map Introduction](https://arcg.is/aKPLS)!
