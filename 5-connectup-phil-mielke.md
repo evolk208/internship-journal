@@ -10,5 +10,5 @@ I was very interested to hear about Phil's background in animal homerange tracki
 
 Phil had an interesting carreer pathway, as he moved to Esri after working for the City of Redlands as a GIS Specialist and Supervisor. He spoke briefly about the challenge of transitioning from practical project management in city government, to the more research-institute feel of Esri due to their industry monopoly. He noted that city government felt more practical, because GIS problems had clear deadlines, that were often short, and saw implementation in local government. I thought this was an interesting note. He recommended that, to find success at Esri, you have to "find the right way to become personally invested" in this GIS utopia. 
 
-He then stepped us through some industry playbooks, which did outline interesting case studies of using the ArcGIS Platform in different industries. 
+He then stepped us through some industry playbooks, which did outline interesting case studies of using the ArcGIS Platform in different industries. I would have enjoyed more discussion about concrete problem solving, but at least this provided an interesting example of a long-term pathway of using GIS, across different environments and use cases, all of the way to current work with Esri. 
 
