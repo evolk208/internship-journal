@@ -12,3 +12,4 @@ Phil had an interesting carreer pathway, as he moved to Esri after working for t
 
 He then stepped us through some industry playbooks, which did outline interesting case studies of using the ArcGIS Platform in different industries. I would have enjoyed more discussion about concrete problem solving, but at least this provided an interesting example of a long-term pathway of using GIS, across different environments and use cases, all of the way to current work with Esri. 
 
+- An example of [GIS use in the city of Redlands](http://redlandsgis.blogspot.com/), around the time Phil Mielke worked there. 
