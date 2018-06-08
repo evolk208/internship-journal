@@ -1,4 +1,4 @@
-# June 6th: Esri in One Hour - The ArcGIS Platform with Jeremy Mirmelstein 
+# June 5th: Esri in One Hour - The ArcGIS Platform with Jeremy Mirmelstein 
 
 Josh set up a series of "Esri in One Hour" chats for me this summer to talk to people throughout the company about their work and about elements of the Esri ecosystem. I had my first one today, where I talked through the ArcGIS Platform with Jeremy. This served as my broad introduction into how all of the ArcGIS software interacts. 
 
