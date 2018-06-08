@@ -1,1 +1,0 @@
-# The ArcGIS Platform
