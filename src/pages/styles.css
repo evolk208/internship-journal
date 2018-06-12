@@ -1,0 +1,26 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  max-width: 960px;
+}
+.article-box{
+    margin-bottom: 1.5em;
+    padding: 2em;
+    box-shadow: 0px 0px 6px grey;
+    font-family: 'Helvetica', sans-serif;
+}
+.title{
+    font-size: 2em;
+    color: grey;
+    margin-bottom: 0px;
+}
+.author, .date{
+    margin: 0px;
+}
+.date{
+    color: rgb(165, 164, 164);
+}
+.excerpt{
+    margin-top: 0.6em;
+}
