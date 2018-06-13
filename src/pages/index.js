@@ -2,9 +2,8 @@ import React from 'react'
 import Link from 'gatsby-link'
 import get from 'lodash/get'
 import Helmet from 'react-helmet'
-import './styles.css'
-
 import Bio from '../components/Bio'
+import {MainContainer, ArticleBox} from "../styled-components/homepage"
 
 class BlogIndex extends React.Component {
   render() {
@@ -17,9 +16,9 @@ class BlogIndex extends React.Component {
 
         <Bio />
 
-      <div className="container">
+      <MainContainer>
         {posts.map(({node}) => (
-          <div key={node.id} className="article-box">
+          <ArticleBox key={node.id}>
               <h3><Link className="title"
                       to={node.fields.slug}
                       style={{textDecoration: 'none'}}>
@@ -28,9 +27,9 @@ class BlogIndex extends React.Component {
               <p className="author">{node.frontmatter.author}</p>
               <p className="date">{node.frontmatter.date}</p>
               <p className="excerpt">{node.excerpt}</p>
-          </div>
+          </ArticleBox>
         ))}
-      </div>
+      </MainContainer>
     </div>
     )
   }

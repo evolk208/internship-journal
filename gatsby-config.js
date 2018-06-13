@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: "Starter Gatsby Blog",
+    title: "Esri Blog",
     author: "Emily Volk",
   },
   plugins: [

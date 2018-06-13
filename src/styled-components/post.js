@@ -1,12 +1,22 @@
 import styled from "styled-components";
 
 const PostWrapper = styled.div`
-  font-family: 'Helvetica', sans-serif;
-  display: flex;
-  flex-direction: column;
+  box-sizing: border-box;
   margin: 0 auto;
   max-width: 960px;
   margin-bottom: 1.5em;
   padding: 2em;
-  box-shadow: 0px 0px 6px grey;
+  background: ghostwhite;
+  box-shadow: 0px 0px 8px grey;
+  h1 {
+    font-size: 2em;
+    color: grey;
+    margin-bottom: 0px;
+  }
+  p {
+    color: black;
+  }
 `;
+
+// export default PostWrapper;
+export {PostWrapper}
