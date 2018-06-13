@@ -1,6 +1,6 @@
 ---
 title: ConnectUp with Phil Mielke
-date: "2018-05-20"
+date: "2018-05-30"
 ---
 # May 30th: ConnectUp with Phil Mielke
 

@@ -1,5 +1,7 @@
 import React from 'react'
 import Link from 'gatsby-link'
+import {HeaderStyled} from "../styled-components/helmet"
+import  "../styled-components/theme/BlogTheme"
 
 class Template extends React.Component {
   render() {
@@ -7,24 +9,26 @@ class Template extends React.Component {
     let header
     if (location.pathname === '/') {
       header = (
-        <h1 style={{textAlign: 'center', backgroundColor: 'grey', width: '100%', padding: '40px'}}>
-          <Link to={'/'} style={{color: 'black'}}>
+        <h1>
+          <Link to={'/'} style={{color: 'black', textDecoration: 'none'}}>
             Starter Gatsby Blog
           </Link>
         </h1>
       )
     } else {
       header = (
-        <h3 style={{textAlign: 'left', backgroundColor: 'grey', width: '100%', padding: '20px', color: 'black'}}>
-          <Link to={'/'} style={{color: 'black'}}>
+        <h3>
+          <Link to={'/'} style={{color: 'black', textDecoration: 'none'}}>
             Starter Gatsby Blog
           </Link>
         </h3>
       )
     }
     return (
-      <div >
+      <div style={{backgroundColor:"white"}}>
+        <HeaderStyled>
         {header}
+        </HeaderStyled>
         {children()}
       </div>
     )
