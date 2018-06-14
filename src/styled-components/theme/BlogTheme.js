@@ -31,6 +31,10 @@ injectGlobal`
   h3 {
     margin: 0;
   }
+  a {
+    color: rgb(52, 133, 238);
+    text-decoration: none; 
+  }
 
   /* Type */
   @font-face {
