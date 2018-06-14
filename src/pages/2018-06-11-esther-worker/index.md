@@ -1,6 +1,6 @@
 ---
 title: Esri in One Hour - GIS in Education, with Esther Worker
-date: "2018-06-05"
+date: "2018-06-11"
 ---
 # Esri in One Hour - GIS in Education, with Esther Worker
 
