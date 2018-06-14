@@ -9,17 +9,17 @@ const MainContainer = styled.div`
   max-width: 100vw;
 `;
 const ArticleBox = styled.div`{
-  background-color: pink;
-  // background-color: ghostwhite;
+  // background-color: pink;
+  background-color: ghostwhite;
   padding: 2em;
-  margin: .25em .25em;
-  width: 300px;
-  height: 300px;
+  margin: .5em .5em;
+  width: 400px;
+  height: 400px;
   // box-shadow: 0px 0px 6px grey;
   .title{
       position: relative;
       font-size: 1.5em;
-      color: grey;
+      color: white;
       margin-bottom: 0px;
   }
   .author, .date{
@@ -33,16 +33,19 @@ const ArticleBox = styled.div`{
       font-size: 1em;
       opacity: 0;
   }
-  .excerpt:hover {
-    opacity: 1;
-    -webkit-transition: all 0.6s ease-in-out;
-    -moz-transition: all 0.6s ease-in-out;
-    -o-transition: all 0.6s ease-in-out;
-    transition: all 0.6s ease-in-out;
-  }
   :hover{
+    .title {
+      color: grey;
+    }
+    .excerpt {
+      opacity: 1;
+      -webkit-transition: all 0.8s ease-in-out;
+      -moz-transition: all 0.8s ease-in-out;
+      -o-transition: all 0.8s ease-in-out;
+      transition: all 0.8s ease-in-out;
+    }
     box-shadow: 0px 0px 20px grey;
-    background-color: ghostwhite;
+    background-image: none !important;
     -webkit-transition: all 0.4s ease-in-out;
     -moz-transition: all 0.4s ease-in-out;
     -o-transition: all 0.4s ease-in-out;
@@ -53,8 +56,11 @@ const ArticleBox = styled.div`{
   }
 
   /* Styling each square (child) */
-  :first-child{
-    background-image: src(https://source.unsplash.com/random);
+  // :nth-child(1+n){
+  //   background-image: url("https://source.unsplash.com/random");
+  // }
+  :last-child {
+    background-image: url('/img/foothills-scene-snip.PNG');
   }
 `;
 

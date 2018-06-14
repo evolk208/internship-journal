@@ -13,12 +13,14 @@ injectGlobal`
     margin: 0;
     tracking: 0;
     font-family: "Avenir Next W01", "Avenir Next W00", "Avenir Next", "Avenir", "Helvetica Neue", sans-serif;
-    line-height: 1.55rem;
+    p {
+      line-height: 1.55rem;
+    }
     color: #4c4c4c;
     background-color: #ffffff;
     -webkit-font-smoothing: subpixel-antialiased;
-    font-feature-settings: "kern";
-    font-kerning: normal;
+    // font-feature-settings: "kern";
+    // font-kerning: normal;
     text-rendering: optimizeLegibility;
     font-feature-settings : "liga" 1,"calt" 0;
   }
