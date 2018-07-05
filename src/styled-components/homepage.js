@@ -59,9 +59,7 @@ const ArticleBox = styled.div`{
   }
 
   /* Styling each square (child) */
-  // :nth-child(1+n){
-  //   background-image: url("https://source.unsplash.com/random");
-  // }
+
   :last-child {
     background-image: url(${foothillsImage});
   }

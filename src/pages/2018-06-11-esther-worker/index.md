@@ -27,3 +27,4 @@ I asked about common student projects, if she could characterize them. Esther sh
 Apparently, CU Boulder used to have a GIS student group, but it may have dissolved because of its Friday afternoon meetings... Esther also shared the names of Colorado GIS user groups, including GIS Colorado. These user groups put on a fall conference: GIS in the Rockies. I'll have to look into this come fall!
 
 Esther shared so much information with me, which makes sense from her incredible number of education accounts. Of course, as a university student, I'm passionate about these student projects, and will definitely be thinking about how more technical departments can embrace this software, especially as real-time analytics become a feature.
+
