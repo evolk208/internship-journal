@@ -1,5 +1,8 @@
 import styled from "styled-components"
 
+import foothillsImage from '../img/foothills-scene-snip.png';
+import greenInfProj from '../img/green-infrastructure-project.png';
+
 const MainContainer = styled.div`
   display: flex;
   justify-content: center;
@@ -56,7 +59,26 @@ const ArticleBox = styled.div`{
   }
 
   /* Styling each square (child) */
-  :nth-child(n){
+
+  :last-child {
+    background-image: url(${foothillsImage});
+  }
+  :nth-last-child(2){
+    background-image: url("https://source.unsplash.com/random");
+  }
+  :nth-last-child(3){
+    background-image: url(${greenInfProj});
+  }
+  :nth-last-child(4){
+    background-image: url("https://source.unsplash.com/random");
+  }
+  :nth-last-child(5){
+    background-image: url("https://source.unsplash.com/random");
+  }
+  :nth-last-child(6){
+    background-image: url("https://source.unsplash.com/random");
+  }
+  :nth-last-child(7){
     background-image: url("https://source.unsplash.com/random");
   }
 `;
