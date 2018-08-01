@@ -17,4 +17,4 @@ const HeaderStyled = styled.div`
 `;
 
 
-export {HeaderStyled}
+export default HeaderStyled 

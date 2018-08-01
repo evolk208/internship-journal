@@ -3,7 +3,9 @@ import Link from 'gatsby-link'
 import get from 'lodash/get'
 import Helmet from 'react-helmet'
 import Bio from '../components/Bio'
-import {MainContainer, ArticleBox} from "../styled-components/homepage"
+
+import MainContainer from "../styled-components/Container/Container-styled"
+import ArticleBox from "../styled-components/ArticleBox/ArticleBox-styled"
 
 class BlogIndex extends React.Component {
   render() {

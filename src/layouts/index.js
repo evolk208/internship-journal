@@ -1,6 +1,7 @@
 import React from 'react'
 import Link from 'gatsby-link'
-import {HeaderStyled} from "../styled-components/helmet"
+
+import  HeaderStyled  from "../styled-components/Header/Header-styled"
 import  "../styled-components/theme/BlogTheme"
 
 class Template extends React.Component {
