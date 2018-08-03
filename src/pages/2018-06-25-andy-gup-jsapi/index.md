@@ -2,6 +2,8 @@
 title: Esri in One Hour - Andy Gup on the JSAPI and Product Management 
 date: "2018-06-25" 
 ---
+# Esri in One Hour - Andy Gup on the JSAPI and Product Management 
+
 Today, Andy Gup and I met about his work as a Product Manager for the ArcGIS JavaScript API, which is the API all of our web development work and ArcGIS Online is constructed on. Andy was the first individual I have talked to that lives and breathes software development, and his incredible depth of experience with software development, particularly for mapping, of course, is helping me to get a clearer picture of development lifecycles. Andy has been web mapping since its very beginning, in 1999. He "threw me back" into the earliest renderings of online maps, and mentioned that it wasn't until 2005 with Google Maps' slide navigation that you could pan to interact with a map online. 
 
 As I mentioned, Andy has worked with developing and managing, in that order, the [ArcGIS API for JavaScript](https://developers.arcgis.com/javascript/latest/api-reference/index.html) for many years. The ArcGIS API for JavaScript, most often shortened to the JSAPI, is the most used software product currently in the Esri software ecosystem. It is such a large and integral product that it has two Product Managers, of which Andy is one. Internal customers include all of the ArcGIS Online suite, web viewer(s), templates, and Story Maps. External customers engage with JSAPI products developed internally, such as Story Maps and ArcGIS Online, as well as customize locally hosted web services and web applications. 
