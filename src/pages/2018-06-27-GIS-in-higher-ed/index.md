@@ -43,3 +43,6 @@ I recently heard of an awesome combination of survey data and real-time tracking
 Esther shared a lot of resources with us on a PDF page shared here! University students and students in general commonly have complete ArcGIS licenses available to them. She also highlighted some great GIS professional development user communities, licensing resources for young grads, and common areas that need GIS assistance, such as local government! I'm going to try to engage with these options and share them with my peers while I still have a university license this year! 
 
 Thank you, Esther, for extending an invitation to this faculty workshop to me, the intern! 
+
+## Update, 8/2
+Sarah Kelly, the CU GIS Instructor, reached out to me today through Esther as a contact for either her GIS classes or CU Boulder's GIS Day event in November! She remembered me from my lunch presentation. I am so honored, and can't wait to see where this goes! Thanks again, Esther, Sarah, and Josh! 
