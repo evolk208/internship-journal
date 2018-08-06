@@ -32,10 +32,25 @@ Esther had me present my introduction Story Map to this whole group during our l
 
 I really thank Esther for giving me this chance to share myself with this qualified group. I felt honored to have this spontaneous opportunity to present at such a great education workshop--thank you for listening! 
 
-## Survey123 and Collector Demo 
+## Mobile Field Applications Demo 
 After lunch, in a brownie and salad-induced stupor, we went through a Survey123 and Collector demonstration. This is the topic I had been most excited to learn about in this workshop. I had yet to work with any data collection, and have been wondering about surveying and collection. 
 
-We spent a while going through building different questions in Survey123. Sadly, it was raining or hailing outside, so we did not get to go outside to geotag survey input points. This was actually much simpler than I thought it would be as a primary mode of data collection. Survey inputs can be geolocated automatically or through user input. Data collected from Survey123 can also be cached for offline collection, and will upload after finding a signal or through direct upload. Survey123 and Collector can be used in a variety of cases, from crowdsourcing any data in a community to collecting and displaying emergency preparedness data (our example), to surveying areas relevant to maintenance for a company. 
+First, we went through a little presentation on the options for data collection apps: 
+- Explorer: An app focused on collaboration 
+- Workforce: Use to assign field work 
+- Collector: Data collector 
+- Survey123: Enhanced data collection, more in a functional form 
+- Navigator: Team to team directions 
+- Operations Dashboard: A great viewpoint into data 
+
+A good workflow for using mobile field apps goes as follows: 
+1. Plan: Plan the information that you need to gather, and/or give to teams. 
+2. Coordinate: How will members in the field recieve work?
+3. Navigate: Your own maps can go offline, as can Navigator directions 
+4. Get data: Use Survey123 for a form-first approach, and Collector for a map-first approach. 
+5. Monitor: An Operations Dashboard can be set up to monitor data as it comes in, real-time. 
+
+We used Survey123 as our hands-on demo. Survey123 is a smartform builder, which can include form logic for better data collection. We spent a while going through building different questions in Survey123. Sadly, it was raining or hailing outside, so we did not get to go outside to geotag survey input points. This was actually much simpler than I thought it would be as a primary mode of data collection. Survey inputs can be geolocated automatically or through user input. Data collected from Survey123 can also be cached for offline collection, and will upload after finding a signal or through direct upload. Survey123 and Collector can be used in a variety of cases, from crowdsourcing any data in a community to collecting and displaying emergency preparedness data (our example), to surveying areas relevant to maintenance for a company. 
 
 I recently heard of an awesome combination of survey data and real-time tracking. Real-time data of individuals on well pads and in transit were combined with maintenance survey results to check for wasted time and vastly improve efficiency and cut costs. Survey123 and Collector have a lot of potential for data collection, but I am also still interested in what more technical geographic surveying looks like--I'm going to try to find a way to do some of that this year, maybe with Engineers Without Borders just to know what this technical surveying looks like. 
 
