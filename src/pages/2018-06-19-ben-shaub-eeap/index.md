@@ -1,5 +1,5 @@
 ---
-title: Esri in One Hour: Ben Shaub on the EEAP
+title: "Esri in One Hour: Ben Shaub on the EEAP"
 date: "2018-06-19" 
 ---
 # Esri in One Hour: Ben Shaub on the EEAP 
