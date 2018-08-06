@@ -46,7 +46,7 @@ Another example was a local government example in a region of Kentucky. Through 
 
 I asked about areas of growth for EEAP. As ArcGIS and GIS moves to being a "system of systems," emphaisizing collaboration within ArcGIS Online, this will likely be an area to move customers toward with the help of EEAP consulting. Also, jumpstarts to integrate these collaboration systems, such as portal to portal collaboration, will also be in order. 
 
-Ben saw the three biggest areas of growth for EEAP as: 
+Ben saw the biggest areas of growth for EEAP as: 
 1. State and Local Government 
 2. Federal Government 
 3. Commercial 
