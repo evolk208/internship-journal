@@ -47,6 +47,6 @@ Customers can commonly combine ArcGIS Enterprise and ArcGIS Online, to create wo
 | | Automatically scalable |
 
 ### Future: Distributed GIS
-This has yet to occur, but is the next step for GIS.
+This has yet to occur, but is the next step for GIS. In a system of Distributed GIS, servers would be in communication, allowing for even greater collaborative potential through cloud or interconnected GIS systems, and real-time analytics. 
 
 I have now been thrown into the deep end of understanding the elements of the ArcGIS platform.
