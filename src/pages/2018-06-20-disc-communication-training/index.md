@@ -12,32 +12,38 @@ I enjoyed the phrasing Corianne used to preface this assesment; the results of t
 
 The DISC assessment allows for 116 combinations of communication styles. After Corianne went through a brief background and overview of the DISC assessment, we went into a discussion of individual styles, with their common traits, including both fears and drives. We also noted the differences in ways different communication styles can be recieved, at their best and worst. 
 
-##D 
+## D 
+
 D-style communication is **dominant**. Dominant communicators **fear** loss of control. In conversation, D-style communicators are strong-willed, and focused on the task at hand. They can be deadline-oriented, and are competetive. As a team member, D-styles are independent, at the risk of seeming self-centered. 
 
 At the worst, D-styles can seem like they have a lack of concern for individuals on a team, as they are primarily task and deadline-oriented. However, they hold the ability to drive projects forward through this task-oriented focus. D-styles also embrace change as a mode of progress. Through this task-at-hand focus, flexibility in embracing change, and decisiveness, D-styles can effectively lead teams toward goals, rapid progress, and competetive advantage. 
 
-##I
+## I
+
 I-styles are known as **influencers**. In distinction from D-styles, I-styled are more focused on people; I-styles focus on relationships above the task-and-hand. I-styles are social, and on any topic--they blur the line between personal and professional life. Their attitude toward change and activity is usually "this is going to be fun, and let's have fun doing it!" 
 
 Under pressure, I-styles can become disorganized. Their biggest fear is social rejection. However, with their ability to forge relationships with everyone around then, I-styles can make teams interpersonally positive. It is usually great to pair a D-style and an I-style to effectively lead teams; with this combination, a team can move forward with the drive of a D-style, while having the fun and positive relationships of an I-style. 
 
-##S 
+## S 
+
 S-styles are steady. They are focused on relationships, but are on the reserved side. In general, S-styles are slower paced in communication, and are calm and patient. S-styles take all data points into consideration when making decisions. They are good listeners, and are trustworthy, as they keep to themselves, in contrast to I-styles. 
 
 Corianne gave a good example of misreading communication traits in reference to this style. She noted that sometimes, S-styles can nod in acknowledgement of discussion. This can be read by a D-style as a sign of decisive agreement, where it is in fact a sign of an S-style listening, and they will need processing time to come to a true aggreement about a decision, after thinking about all of the data points. 
 
 Under pressure, S-styles can be too willing, and submissive to the point of being overextended. They fear a loss of stability, and with this, can be the first to question change. Their attitude toward "doing" is "Let's do it as we agreed," and they want everyone to be in agreement about team proceedings. S-styles are still people-oriented, but only most open when they have a relationship to a person they are communicating with (in contrast to the ever-social I-style). 
 
-##C 
+## C 
+
 A C-style communicator is a conscientious team member. They are the most precise of the communicators. They are great at following precise instructions and workflows, and their attitude toward doing is "Let's do it right the first time." Where I-styles thrive in the brainstorming phase, C-styles are analytica, comprehensive, and organized when executing tasks. 
 
 ## Me 
+
 From my spring DISC assessment, I am right on the line between D and I styles. My DISC breakdown is 50% D, 45% I, and 5% S. I think in team settings, I am task-oriented, independent, and driven in the way outline by the D-style description above. At my worst, I seem uncaring about relationships in teams, and am definitely driven by competition and completion of team goals. However, I am trying to be more accomodating and focused on building beneficial and fun relationships to help form supportive and respectful teams. I am resoundingly social, though shy, so may be growing into elements of an I-style. Like an I-style, when I am stressed, organization is one of the first things to slip. I consistently maintain rigid, task-oriented organization with team or project work, but my personal life (think: clean room) falls into disarray as a low priority in times of stress. 
 
 I thought I would be more S-style and precise, and really talked through this with my fellow regional interns as we discussed our profiles. I view myself as analytical and detail oriented, and as the summer has progressed I've been monitoring this. I think in general I may be less S-style than my percpetion of myself. I do commonly favor fast decisions over pondering options for a lengthy amount of time, though I do feel like I closely analyze alternatives and tasks. I think the main distinction is I will almost always think in the big picture as opposed to rigid, precise tasks, and am willing to give up some of my analytical side in order to progress quickly to big-picture goals. It is interesting to note that my percieved need to adjust arrow points toward S, however, which fits with me constantly surrounding myself with analytical people, pursuits, and disciplines, such as engineering and development environments. 
 
 ## Discussion 
+
 We talked in break-out groups with fellow regional interns across the country. I talked with interns based in St. Louis and North Carolina. I was hesitant and intimidated to participate in remote discussion through this webinar format, but we actually had incredibly fruitful conversation! This discussion with fellow interns around communication strategies, goals, work with our internship and coworkers, and each other will probably be one of the highlights of my summer. Alex, an intern in St. Louis, and I both felt like we had been mischaracterized in terms of not being much S-styles. However, we really talked through this, and I realized most of what I wrote in my profile above. We also had a group discussion of how we could get more confident in our internship positions through each of our communication styles, and how to capitalize on our most natural and strongest traits. This was a great time in the summer to step back, think about my needs and communication strengths, and find a way, with the advice of my fellow interns, to merge these into an even stronger way to approach my work interning at Esri and relationships with my coworkers. Corianne had noted earlier that overall, Esri as a company had very few D-styles. I thought a lot about how to bring my decisiveness, independence, and D-style leadership forward in asking for projects I was drawn to for the rest of my internship. We also brainstormed with each other about how to interact with our departments in ways that worked, or required more effort, for our communication styles. It was great to have this time in discussion with other interns, especially as I am still the only intern in the Denver office at this point.
 
 It is fun to think about the communication styles of those around me, and I had a specific close friend in mind for each style to help me percieve the traits in action better. Also in this discussion, I thought a lot about the styles of my coworkers. It is helpful to note traits to look for in communication styles, which can be so beneficial in making accomodations for different communication strategies to get the most out of each individual. 
