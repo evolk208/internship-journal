@@ -27,9 +27,7 @@ class Template extends React.Component {
     }
     return (
       <div style={{backgroundColor:"white"}}>
-        <HeaderStyled>
-        {header}
-        </HeaderStyled>
+        
         {children()}
       </div>
     )
