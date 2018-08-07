@@ -1,0 +1,7 @@
+---
+title: "Esri in One Hour: Michael Gaigg on UI/UX Design" 
+date: "2018-07-12"
+---
+I had the pleasure of speaking with Mike Gaigg this morning about work, life, and user interface and user experience design. Michael took our Esri in One Hour to more of a personal place than my other chats this summer, and asked my right off the bat how I viewed my future. When I told him I was still flexibly exploring options, and that Esri was my first real internship in a corporate environment, he stepped me through some of his perspectives. 
+
+Mike shared with me that there are three types of companies in this tech area niche: "big-name" companies, such as Google, Facebook, or Twitter, where people may value the name over the actual day-to-day of work you are engaging in; start-ups, where they will either work or not, and be exhilleratingly adrenaline propelled through either option; and Esri, which is placed in the category between these two options. In Mike's experience, Esri can feel like a start-up, a big company, or a family company, depending on who you work with. It is this blended mix of these environments, and, with such a flat structure, these elements proceed and coexist simultaneously. 

@@ -2,8 +2,6 @@
 title: DISC Communication Workshop
 date: "2018-06-20"
 ---
-# DISC Communication Workshop for Regional Interns 
-
 Midway through this spring, following my acceptance of the Esri internship, Corianne (the internship coordinator) sent a communication assessment out to each of us interns. DISC is a behavior and communication assessment tool centering on four different behavioral traits that make up its acronym: dominance, inducement, submission, and compliance. 
 
 [insert image here: https://cdn6.bigcommerce.com/s-jiun9xhf31/product_images/uploaded_images/disc-graphic.png?t=1466018886]

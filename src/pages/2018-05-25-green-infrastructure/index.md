@@ -2,8 +2,6 @@
 title: Green Infrastructure Project
 date: "2018-05-25"
 ---
-# May 25th: Green Infrastructure Project
-
 Today, I've spent time exploring a case study in ArcGIS: the Green Infrastructure Project. One of my coworkers, Gary, had sent me materials on the Esri Green Infrastructure Project, including their current website, after hearing my interest in protecting open space and greenways in urban and rural areas. I dove more into the background and goals of this project through watching an EDGE Speaker Series presentation from Hugh Keegan, a leader of the Applications Prototype Lab and this initiative, from April 27, 2018. (The EDGE Speaker Series is an internal Esri speaker series, and stands for Engage, Discover, Grow,  @ Esri.)
 
 Landscape architecture has its roots in the United States. Frederick Law Olmstead's "Emerald Necklace" is one of the first case studies for consciously connected greenspace. The city of Boston grew up around this connected greenspace, and serves as one of the first green infrastructure examples in urban planning.

@@ -2,8 +2,6 @@
 title: Professional Services Open Meeting
 date: "2018-05-24"
 ---
-# May 24th: Professional Services Open Meeting
-
 On my third day of work, we had a share-out meeting with all of the Professional Services individuals working in the Denver office, which was open to the whole office. We had two guests with us for this meeting: Andy Schulte and Eric Floss. This was the perfect chance to get a broad scope of Professional Services operating out of the Denver office in my very first week, and I loved hearing about everyone's projects, clients, and teams through Esri.
 
 ## Aviation

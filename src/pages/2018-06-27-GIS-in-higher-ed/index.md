@@ -2,7 +2,6 @@
 title: "GIS in Higher Education Workshop" 
 date: "2018-06-27" 
 ---
-# GIS in Higher Education Workshop 
 I had expressed interest to Esther about both more engagement with ArcGIS in higher education, as well as my interest in getting more famliar with the software this summer. She followed up with me a couple of days with an invitation to a "GIS in Higher Education" workshop, which was to be a gathering of GIS faculty for a day-long workshop! I immediately agreed to drop-in to about 2/3 of the day-long workshop, only skipping a few sections I had already worked with so far. The following is a brief sketch of the day. 
 
 ## Introductions 
