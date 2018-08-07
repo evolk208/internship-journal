@@ -2,10 +2,11 @@ import React from 'react'
 import Helmet from 'react-helmet'
 import Link from 'gatsby-link'
 import get from 'lodash/get'
-import {PostWrapper} from "../styled-components/post"
-
+import {PostWrapper} from "../styled-components/Post/Post-styled"
 
 import Bio from '../components/Bio.js'
+
+import { HomeIcon } from '../styled-components/img/favicon-1.png'
 
 
 class BlogPostTemplate extends React.Component {
@@ -18,7 +19,7 @@ class BlogPostTemplate extends React.Component {
       <div>
         {/*Helmet*/}
         <Helmet title={`${post.frontmatter.title} | ${siteTitle}`} />
-
+        
         {/*Post body*/}
         <PostWrapper>
         <h1>{post.frontmatter.title}</h1>

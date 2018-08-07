@@ -3,10 +3,10 @@ import styled from "styled-components";
 const PostWrapper = styled.div`
   box-sizing: border-box;
   margin: 0 auto;
-  max-width: 960px;
+  max-width: 800px;
   margin-bottom: 1.5em;
   padding: 2em;
-  background: ghostwhite;
+  //background: ghostwhite;
   box-shadow: 0px 0px 8px grey;
   h1 {
     font-size: 2em;
@@ -19,4 +19,4 @@ const PostWrapper = styled.div`
 `;
 
 // export default PostWrapper;
-export {PostWrapper}
+export { PostWrapper }
