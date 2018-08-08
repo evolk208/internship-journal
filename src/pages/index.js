@@ -5,7 +5,8 @@ import Helmet from 'react-helmet'
 import Bio from '../components/Bio'
 
 import MainContainer from "../styled-components/Container/Container-styled"
-import ArticleBox from "../styled-components/ArticleBox/ArticleBox-styled"
+import { ArticleBox, BoxContent, ArticleBoxBackground } from "../styled-components/ArticleBox/ArticleBox-styled"
+
 
 class BlogIndex extends React.Component {
   render() {
@@ -20,16 +21,19 @@ class BlogIndex extends React.Component {
 
       <MainContainer>
         {posts.map(({node}) => (
-          <ArticleBox key={node.id}>
-              <h3><Link className="title"
-                      to={node.fields.slug}
-                      style={{textDecoration: 'none'}}>
-                      {node.frontmatter.title}
-              </Link></h3>
-              <p className="author">{node.frontmatter.author}</p>
-              <p className="date">{node.frontmatter.date}</p>
-              <p className="excerpt">{node.excerpt}</p>
+          <Link to={node.fields.slug}
+                style={{textDecoration: 'none'}}>
+          <ArticleBoxBackground postTitle={node.frontmatter.title}>
+          <ArticleBox key={node.id} postTitle={node.frontmatter.title}>
+            <BoxContent>
+              <h1 className="title">{node.frontmatter.title}</h1>
+              {/* <p className="author">{node.frontmatter.author}</p> */}
+              <p className="date">{node.frontmatter.date}</p> 
+              {/* excerpt would go here  */}
+            </BoxContent>
           </ArticleBox>
+          </ArticleBoxBackground>
+          </Link>
         ))}
       </MainContainer>
     </div>

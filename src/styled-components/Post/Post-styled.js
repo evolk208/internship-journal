@@ -3,10 +3,11 @@ import styled from "styled-components";
 const PostWrapper = styled.div`
   box-sizing: border-box;
   margin: 0 auto;
-  max-width: 960px;
+  max-width: 800px;
   margin-bottom: 1.5em;
+  margin-top: 25px; 
   padding: 2em;
-  background: ghostwhite;
+  //background: ghostwhite;
   box-shadow: 0px 0px 8px grey;
   h1 {
     font-size: 2em;
@@ -16,7 +17,19 @@ const PostWrapper = styled.div`
   p {
     color: black;
   }
-`;
+`
+
+const Arrow = styled.div`
+    padding: 10px; 
+    position: fixed; 
+    top: 50%;  
+    left: 24%;
+    font-size: 2.5em; 
+    :hover {
+        left: 23%; 
+        transition: left 135ms ease-in-out; 
+    }
+`
 
 // export default PostWrapper;
-export {PostWrapper}
+export { PostWrapper, Arrow }

@@ -1,9 +1,7 @@
 ---
-title: Intern Connect - Living Atlas, with Jennifer Bell and Lisa Berry
+title: "Intern Connect: Living Atlas, with Jennifer Bell and Lisa Berry" 
 date: "2018-05-31"
 ---
-# May 31st: Intern Connect - Living Atlas, with Jennifer Bell and Lisa Berry
-
 I participated in the first Intern Connect program today for my internship cohort. Over the summer, the internship coordinators are putting on a series of presentations from different Esri employees from different departments for us interns. This is similar to my personal "Esri in One Hour" interviews here in Denver, but these are presentations to the whole internship cohort. This first presentation was from Jennifer Bell and Lisa Berry from the Living Atlas team, and I really enjoyed getting a chance to hear about their career paths and work on the Living Atlas team! Both Lisa and Jennifer were open, friendly, personable, and talked about such a wealth of expertise and interest that had brought them to work on the Living Atlas team.
 
 You could tell that Jennifer and Lisa were both passionate about cartography and data analysis, and it was great to see that both of them have ended up on this team. For this presentation, Lisa and Jennifer went through their backgrounds and different pathways on the way to Esri. After this, they followed up with a short demo about using ArcGIS Online and Living Atlas layers. \

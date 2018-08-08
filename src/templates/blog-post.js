@@ -2,11 +2,14 @@ import React from 'react'
 import Helmet from 'react-helmet'
 import Link from 'gatsby-link'
 import get from 'lodash/get'
-import {PostWrapper} from "../styled-components/post"
-
+import { PostWrapper, Arrow } from "../styled-components/Post/Post-styled"
+import { PageBackground } from "../styled-components/ArticleBox/ArticleBox-styled"
 
 import Bio from '../components/Bio.js'
 
+import { HomeIcon } from '../styled-components/img/favicon-1.png'
+import Larrow from '../styled-components/img/arrow-left.png'
+import Rarrow from '../styled-components/img/arrow-right.png'
 
 class BlogPostTemplate extends React.Component {
   render() {
@@ -16,9 +19,10 @@ class BlogPostTemplate extends React.Component {
 
     return (
       <div>
+      <PageBackground></PageBackground>
         {/*Helmet*/}
         <Helmet title={`${post.frontmatter.title} | ${siteTitle}`} />
-
+        
         {/*Post body*/}
         <PostWrapper>
         <h1>{post.frontmatter.title}</h1>
@@ -31,9 +35,11 @@ class BlogPostTemplate extends React.Component {
 
       {/*Next and previous buttons*/}
           {previous && (
+            <Arrow>
               <Link to={previous.fields.slug} rel="prev">
-                ← {previous.frontmatter.title}
+                <div class = "arrow"> ← </div> {next.frontmatter.title}
               </Link>
+            </Arrow>
           )}
           {next && (
               <Link to={next.fields.slug} rel="next">

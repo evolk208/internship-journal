@@ -2,8 +2,6 @@
 title: "Intern Connect: The Future of ArcGIS" 
 date: "2018-06-14"
 ---
-# Intern Connect: The Future of ArcGIS 
-
 (Get person's name who did this)
 This was my second Intern Connect webinar through the internship program, and I video'd in to the presentation in Redlands. This virtual format is never quite as engaging to me as being able to be at a live presenation, but ____(name_____ had put together a PowerPoint, which makes it easier to follow along through a virtual presentation. 
 

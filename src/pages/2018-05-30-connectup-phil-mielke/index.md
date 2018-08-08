@@ -2,8 +2,6 @@
 title: ConnectUp with Phil Mielke
 date: "2018-05-30"
 ---
-# May 30th: ConnectUp with Phil Mielke
-
 Today I participated, remotely, in a ConnectUp discussion with Phil Mielke. ConnectUp is a series of roundtable discussions with experienced employees from across Esri. A group called e-bloc coordinates these discussions in addition to other events serving to connect employees in more social settings.
 
 Phil Mielke is currently an Industry Patterns Lead with the Patterns and Practices team at Esri, and is the former CIO of Redlands. His bio from ConnectUp is below:

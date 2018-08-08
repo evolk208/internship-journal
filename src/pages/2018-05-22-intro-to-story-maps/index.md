@@ -1,11 +1,7 @@
 ---
-title: Intro to Story Maps
+title: "Intro to Story Maps"
 date: "2018-05-22"
 ---
-# May 22-24th: Intro to Story Maps
-
-## May 22nd
-
 I started my Summer 2018 Internship with Esri on Tuesday, May 22nd! After briefly touring the Denver office and remotely sitting in on an intern introduction meeting hosted at the Redlands campus, I started my first project: a Story Map to introduce myself to the Denver Professional Services team and the rest of the office!
 
 This was my first experience with Story Maps, and I got the chance to work closely with Alison, a member of the Esri Story Maps team, throughout this process. This one-on-one collaboration and assistance was very helpful as I familiarized myself with the software, and looked to gallery examples for features I liked and could pull into the layout of my Story Map narrative.

@@ -4,6 +4,10 @@ import Link from 'gatsby-link'
 import  HeaderStyled  from "../styled-components/Header/Header-styled"
 import  "../styled-components/theme/BlogTheme"
 
+import HomeIcon from '../styled-components/Icon/Icon-styled'
+import Icon from '../styled-components/img/favicon-1.png'
+import styles from './style.module.css'
+
 class Template extends React.Component {
   render() {
     const { location, children } = this.props
@@ -11,25 +15,23 @@ class Template extends React.Component {
     if (location.pathname === '/') {
       header = (
         <h1>
-          <Link to={'/'} style={{color: 'black', textDecoration: 'none'}}>
-            Starter Gatsby Blog
+          <Link to={'/'} >
+            <HomeIcon src={Icon} className={styles.animationOne}/>
           </Link>
         </h1>
       )
     } else {
       header = (
         <h3>
-          <Link to={'/'} style={{color: 'black', textDecoration: 'none'}}>
-            Starter Gatsby Blog
+          <Link to={'/'} >
+            <HomeIcon src={Icon} className={styles.animationSpin}/>
           </Link>
         </h3>
       )
     }
     return (
       <div style={{backgroundColor:"white"}}>
-        <HeaderStyled>
         {header}
-        </HeaderStyled>
         {children()}
       </div>
     )

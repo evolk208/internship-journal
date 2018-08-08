@@ -1,9 +1,7 @@
 ---
-title: Esri in One Hour - Stacia Taggart on GIS in Transportation
+title: "Esri in One Hour: Stacia Taggart on GIS in Transportation"
 date: "2018-06-05" 
 ---
-# Esri in One Hour - Stacia Taggart on GIS in Transportation
-
 Today I met with Stacia Taggart for my first "Esri in One Hour" chat involving discussion of industry implementation of GIS. Stacia has recently transitioned from a development role to this more customer-oriented implementation role, and we also discussed this transition. 
 
 Department of Transportations are one of the most rapid areas of new growth for the adoption of ArcGIS. Esri's first successful Department of Transportation relationship was with New York State Department of Transportation (NYSDOT). I had heard a short recap of this successful engagement at the Professional Services Open Meeting during my first week; Esri had helped NYSDOT to successfully deploy a host of snow management apps for NYSDOT, which not only provided route planning and organization of resources, but also enabled transparency for the public, allowing them to view real-time updates on snow removal across the state. I remember this had been initially presented to NYSDOT as somewhat of a proof-of-concept, which was quickly accelerated to be built out and deployed for a full snow season. This served as one of the first great, successful case studies for enabling real-time location intelligence for Department of Transportations, and this seems to have been the first group of apps to inspire some currently worked on "DOT Solutions" packages. 
