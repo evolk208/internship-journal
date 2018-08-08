@@ -1,5 +1,5 @@
 ---
-title: Esri in One Hour - Stacia Taggart on GIS in Transportation
+title: "Esri in One Hour: Stacia Taggart on GIS in Transportation"
 date: "2018-06-05" 
 ---
 Today I met with Stacia Taggart for my first "Esri in One Hour" chat involving discussion of industry implementation of GIS. Stacia has recently transitioned from a development role to this more customer-oriented implementation role, and we also discussed this transition. 

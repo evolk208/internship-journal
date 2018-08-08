@@ -27,6 +27,7 @@ injectGlobal`
   h1 {
     margin: 0;
     font-family: "Avenir Next";
+    font-weight: lighter; 
   }
   h3 {
     margin: 0;

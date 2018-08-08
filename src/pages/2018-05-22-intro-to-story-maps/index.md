@@ -1,5 +1,5 @@
 ---
-title: Intro to Story Maps
+title: "Intro to Story Maps"
 date: "2018-05-22"
 ---
 I started my Summer 2018 Internship with Esri on Tuesday, May 22nd! After briefly touring the Denver office and remotely sitting in on an intern introduction meeting hosted at the Redlands campus, I started my first project: a Story Map to introduce myself to the Denver Professional Services team and the rest of the office!

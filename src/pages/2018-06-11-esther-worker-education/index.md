@@ -1,5 +1,5 @@
 ---
-title: Esri in One Hour - GIS in Education, with Esther Worker
+title: "Esri in One Hour: GIS in Education, with Esther Worker"
 date: "2018-06-11"
 ---
 For my Esri in One Hour chat today, I met with Esther Worker. Esri is currently an Education Account Manager for the Mid West and Western US, and manages over 2,000 accounts (wow!). In our chat, we talked about ___ , ArcGIS use in education, and new goals and directions for increasing GIS use in education and beyond.

@@ -1,6 +1,7 @@
 ---
 title: "Esri in One Hour: Michael Gaigg on UI/UX Design" 
 date: "2018-07-12"
+imageURL: "../../img/story-map-intro-wide.png"
 ---
 I had the pleasure of speaking with Mike Gaigg this morning about work, life, and user interface and user experience design. Michael took our Esri in One Hour to more of a personal place than my other chats this summer, and asked my right off the bat how I viewed my future. When I told him I was still flexibly exploring options, and that Esri was my first real internship in a corporate environment, he stepped me through some of his perspectives. 
 

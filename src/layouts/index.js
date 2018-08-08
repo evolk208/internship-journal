@@ -3,7 +3,10 @@ import Link from 'gatsby-link'
 
 import  HeaderStyled  from "../styled-components/Header/Header-styled"
 import  "../styled-components/theme/BlogTheme"
-import HomeIcon from '../styled-components/img/favicon-1.png'
+
+import HomeIcon from '../styled-components/Icon/Icon-styled'
+import Icon from '../styled-components/img/favicon-1.png'
+import styles from './style.module.css'
 
 class Template extends React.Component {
   render() {
@@ -13,7 +16,7 @@ class Template extends React.Component {
       header = (
         <h1>
           <Link to={'/'} >
-            <img src={HomeIcon} style={{width: "75px", height: "75px", padding: "15px"}}/>
+            <HomeIcon src={Icon} className={styles.animationOne}/>
           </Link>
         </h1>
       )
@@ -21,7 +24,7 @@ class Template extends React.Component {
       header = (
         <h3>
           <Link to={'/'} >
-            <img src={HomeIcon} style={{width: "75px", height: "75px", padding: "15px"}}/>
+            <HomeIcon src={Icon} className={styles.animationSpin}/>
           </Link>
         </h3>
       )
