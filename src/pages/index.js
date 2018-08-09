@@ -17,9 +17,9 @@ class BlogIndex extends React.Component {
       <div>
         <Helmet title={siteTitle} />
 
-        <Bio />
+        {/* <Bio /> */}
 
-      <MainContainer>
+      <MainContainer style={{marginTop: "15px"}}>
         {posts.map(({node}) => (
           <Link to={node.fields.slug}
                 style={{textDecoration: 'none'}}>
