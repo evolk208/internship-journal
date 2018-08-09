@@ -1,5 +1,6 @@
 import React from 'react'
 
+
 // import profilePic from './profile-pic.jpg'
 
 class Bio extends React.Component {
@@ -10,7 +11,12 @@ class Bio extends React.Component {
         //   src={profilePic}
         //   alt={`Kyle Mathews`}
         // />
-      <p>Emily Volk's 2018 Esri summer internship journal, recording her experience as an Esri intern{' '}</p>
+      <div>
+      <p>Emily Volk is a Web Development and Data Visualization Esri Summer 2018 Intern</p>
+      <p>She's now heading back to finish her senior year at CU Boulder</p>
+      <p style={{paddingTop: "15px"}}>Reach out anytime at <a href="mailto:emilymvolk@gmail.com">emilymvolk@gmail.com</a></p> 
+     
+      </div>
         // <a href="https://twitter.com/kylemathews">
         //   You should follow him on Twitter
         // </a>

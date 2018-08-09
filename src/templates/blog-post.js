@@ -31,19 +31,19 @@ class BlogPostTemplate extends React.Component {
         <hr />
         </PostWrapper>
       {/*Bio*/}
-        <Bio />
+        {/* <Bio /> */}
 
       {/*Next and previous buttons*/}
           {previous && (
             <Arrow>
               <Link to={previous.fields.slug} rel="prev">
-                <div class = "arrow"> ← </div> {next.frontmatter.title}
+                 ← {next && next.frontmatter.title}
               </Link>
             </Arrow>
           )}
           {next && (
               <Link to={next.fields.slug} rel="next">
-                {next.frontmatter.title} →
+                {next && next.frontmatter.title} →
               </Link>
           )}
       </div>
