@@ -2,7 +2,7 @@ import React from 'react'
 import Helmet from 'react-helmet'
 import Link from 'gatsby-link'
 import get from 'lodash/get'
-import { PostWrapper, Arrow } from "../styled-components/Post/Post-styled"
+import { PostWrapper, LArrow, RArrow } from "../styled-components/Post/Post-styled"
 import { PageBackground } from "../styled-components/ArticleBox/ArticleBox-styled"
 
 import Bio from '../components/Bio.js'
@@ -35,16 +35,18 @@ class BlogPostTemplate extends React.Component {
 
       {/*Next and previous buttons*/}
           {previous && (
-            <Arrow>
-              <Link to={previous.fields.slug} rel="prev">
-                 ← {next && next.frontmatter.title}
-              </Link>
-            </Arrow>
+            <Link to={previous.fields.slug} rel="prev">
+              <LArrow src={Larrow} />  
+                {/* {previous && previous.frontmatter.title} */}
+            </Link>
+           
           )}
           {next && (
               <Link to={next.fields.slug} rel="next">
-                {next && next.frontmatter.title} →
+                <RArrow src={Rarrow} />
+                {/* {next && next.frontmatter.title}  */}
               </Link>
+             
           )}
       </div>
     )

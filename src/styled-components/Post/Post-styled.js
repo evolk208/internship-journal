@@ -19,17 +19,33 @@ const PostWrapper = styled.div`
   }
 `
 
-const Arrow = styled.div`
+const RArrow = styled.img`
     padding: 10px; 
     position: fixed; 
     top: 50%;  
-    left: 24%;
-    font-size: 2.5em; 
+    width: 4rem; 
+    height: 4rem; 
+    right: 1%; 
+    opacity: .4; 
     :hover {
-        left: 23%; 
-        transition: left 135ms ease-in-out; 
+        right: 0%; 
+        opacity: .75; 
+        transition: all 135ms ease-in-out; 
     }
 `
-
+const LArrow = styled.img`
+    padding: 10px; 
+    position: fixed; 
+    top: 50%;  
+    width: 4rem; 
+    height: 4em; 
+    left: 1%;
+    opacity: .4; 
+    :hover {
+        left: 0%; 
+        opacity: .75; 
+        transition: all 135ms ease-in-out; 
+    }
+`
 // export default PostWrapper;
-export { PostWrapper, Arrow }
+export { PostWrapper, LArrow, RArrow }
