@@ -41,7 +41,7 @@ const ArticleBoxBackground = styled.div`
   box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
   //padding: 2em; 
   margin: 10px;
-  width: 500px;
+  max-width: 500px;
   height: 500px;
   flex-shrink: 1; 
   :hover {

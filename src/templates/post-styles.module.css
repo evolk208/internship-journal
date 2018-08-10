@@ -1,0 +1,7 @@
+@media only screen and (max-width: 600px){
+    .arrowNav {
+        position: relative;
+        bottom: 0; 
+        background-color: ghostwhite; 
+    }
+}
