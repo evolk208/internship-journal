@@ -2,7 +2,6 @@
 title: "Professional Services Intern Meeting" 
 date: "2018-06-21" 
 ---
-# Professional Services Intern Meeting 
 The Professional Services department in Redlands coordinated a department-wide meeting with Professional Service management and all of us Professional Services interns. This meeting was based in a Redlands conference room, but I and other regional interns called in and participated in a webinar format. Some management at this meeting included Guy Knowles, Christy from management, Brian Cross, Andy Schulte, and Don Chambers. It was hard to hear group introductions through the webinar format, so these are the main names that I caught during the first general introductions. 
 
 At a high level, the goal of internships through Professional Services is to get interns working with GIS professionals to gain hands-on experiencence with real-world development. Additionally, the program hopes to give interns professional development and training opportunities, while allowing us to network and potentialy find employment and career opportunities through Esri. This was really a reiteration of most of what Corianne and Leslie have shared with us at intern events, but was restated in this meeting. 
