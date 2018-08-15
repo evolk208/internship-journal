@@ -1,8 +1,8 @@
 ---
-title: "Esri in One Hour: Ben Shaub on the EEAP"
+title: "Esri in One Hour: Ben Schaub on the EEAP"
 date: "2018-06-19" 
 ---
-I've actually been getting more confused on the Esri Enterprise Advantage Program (EEAP) as summer has progressed, so today I finally got to mentally download the right information on this area from Ben Shaub (____ what is his title right now??). 
+I've actually been getting more confused on the Esri Enterprise Advantage Program (EEAP) as summer has progressed, so today I finally got to mentally download the right information on this area from Ben Schaub, who is currently the Program Manager for Advantage Programs at Esri. 
 
 Ben has worked at Esri for about 6 years, and has also worked with Josh before, so it was fun to talk to one of my mentor's friends (and backpacking buddies). Ben started as a Project Manager, was based in DC for a while, and has now relocated to Redlands. He started supporting the EEAP program around 2 years ago. 
 

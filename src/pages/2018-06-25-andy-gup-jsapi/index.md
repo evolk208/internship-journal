@@ -10,7 +10,7 @@ The ArcGIS JavaScript API is now in the 4.x phase. We talked about the differenc
 
 He led me through the many glorious aspects of software maintanence you have to worry about when maintaining and updating an API.  The API must constantly reconcile compatibility with all browsers, HTML W3C standards, JS and ES7, third-party libraries, and all devices. For example, WebGL specifications are constantly changing. The JSAPI must contanstantly strive for parity or extension of functionality between all of these different specifications. Esri does not release patch releases, so problems must be addressed in batch releases. Development operates in Agile Sprints, with a combination of both manual and automatic testing. Automatic testing occurs nightly, and I enjoyed visualizing these cycles. 
 
-(Insert diagram here)
+(Insert image here)
 
 Interestingly, Andy could give me a very current and relevant example of adressing an API feature fix. The next release of the ArcGIS JavaScript API is slated for early July, and just the previous Friday, Andy had discovered a bug where map rotation was not working properly on mobile devices. This fell into the category of "show-stopper" bug, he outlined to me, which is a bug effecting one or more of the top 10 use cases. The rest of his week would be spent explaining this bug to the development team, identify consistency of where the feature was breaking in order to identify a fix, as well as negotiating with Product Owners about the relevancy and timeline of the fix for this bug--would it be fixed by the early July release, or pushed to the next release date? While stressful, this was a lucky chance to get an extremely current, real-world example of the Product Management lifecycle. 
 

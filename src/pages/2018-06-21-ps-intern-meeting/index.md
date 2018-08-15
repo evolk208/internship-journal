@@ -37,4 +37,4 @@ Kathy, Ben Shaub's intern, actually started a famous food opup in LA that sold r
 I didn't get to hear much of the projects people are working on right now or during the summer up until this point, but people had plenty of fun facts to learn about the larger group I am in. 
 
 ## Story Map 
-Manager profiles and words of advice, as well as all of the intern profiles, were compiled and sent out afterward in this [Story Map](FILL ME !). 
+Manager profiles and words of advice, as well as all of the intern profiles, were compiled and sent out afterward in this [Story Map](Check if internal). 
