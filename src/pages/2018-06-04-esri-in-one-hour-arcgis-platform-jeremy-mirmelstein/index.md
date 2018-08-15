@@ -4,6 +4,8 @@ date: "2018-06-05"
 ---
 Josh set up a series of "Esri in One Hour" chats for me this summer to talk to people throughout the company about their work and about elements of the Esri ecosystem. I had my first one today, where I talked through the ArcGIS Platform with Jeremy. This served as my broad introduction into how all of the ArcGIS software interacts.
 
+### A large document I read part of prior to our meeting: [Architecting the ArcGIS Platform: Best Practices](https://assets.esri.com/content/dam/esrisites/media/pdf/architecting-the-arcgis-platform.pdf)
+
 ## ArcGIS and Basic GIS Patterns
 **ArcGIS** is a generic term to describe the entire stack of Esri software, and does not translate to specifics about GIS. Generally, each industry has a different *pattern* for how they use GIS. A normal GIS progression is spatial analysis, where geographic points are converted into information. GIS *tools* solve spatial problems. ArcGIS has invented many of these tools to solve these spatial problems.
 
