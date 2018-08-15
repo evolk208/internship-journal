@@ -61,24 +61,28 @@ const ArticleBox = styled.div`{
   border: 1px solid rgba(0,0,0,0); 
   width: 100%; 
   height: 100%; 
-  
+   
   .title {
       margin-top: 10%; 
       position: relative;
       font-size: 2.3em;
-      color: white;
+      color: black; 
       margin-bottom: 0px;
-      visibility: hidden; 
-      padding: 0 1em; 
+      //background: ghostwhite;
+      padding: 5px 1em; 
+      opacity: 0; 
   }
   .author, .date{
     margin: 0px;
   }
   .date{
-    color: rgb(165, 164, 164);
+    color: rgba(0,0,0,.65);
     font-size: 1.5em; 
-    margin-top: 5px; 
-    visibility: hidden; 
+    padding-top: 0px; 
+    padding-bottom: 10px;
+  visibility: hidden; 
+   //background: ghostwhite;
+  
   }
   .excerpt{
     margin-top: 0.6em;
@@ -89,11 +93,22 @@ const ArticleBox = styled.div`{
       
       .title {
         color: white;
-        visibility: visible; 
+        opacity: .85;
+       // visibility: visible; 
+        background: none; 
+        -webkit-transition: { color, opacity }0.3s ease-in-out;
+        -moz-transition: { color, opacity }0.3s ease-in-out;
+        -o-transition: { color, opacity }0.3s ease-in-out;
+        transition: { color, opacity } 0.3s ease-in-out;
       }
       .date {
-        color: lightgrey; 
+        background: none;
         visibility: visible; 
+        color: rgb(165, 164, 164);
+        -webkit-transition: { color, visibility } 0.3s ease-in-out;
+        -moz-transition: { color, visibility } 0.3s ease-in-out;
+        -o-transition: { color, visibility } 0.3s ease-in-out;
+        transition: { color, visibility } 0.3s ease-in-out;
       }
       .excerpt {
         opacity: 1;

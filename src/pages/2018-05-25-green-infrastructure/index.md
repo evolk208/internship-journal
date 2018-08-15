@@ -23,7 +23,7 @@ There are still aspects of this project that need updating. The current initiati
 Some last takeaways that are interesting to note:
 - There is a yearly Convention on Biological Diversity, which the US is not currently participating in. This is an available issue to contact congress people about.
 - 50% of the core polygons mapped by this first initiative were less than 500 acres in size. It is key to preserve large cores, and it is concerning that a growing number of cores are small in size, or disconnected.
-- This Green Infrastructure website needs to be current.
+- This [Green Infrastructure website](http://www.esri.com/about-esri/greeninfrastructure) needs to be current.
 
 Additionally, following this EDGE talk with Hugh Keegan, I watched a presentation by the inspiration for this project, Arancha Munoz-Criado. She is incredibly cool, and I look forward to diving into more of her work. She planned and implemented green infrastructure in Valencia, Spain, which was a case study and inspiration Jack looked to inspire this project. She also commented on the EU's Nature 2000 initiative, which I will look into, which seeks to establish green infrastructure across the European Union.
 

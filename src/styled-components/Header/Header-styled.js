@@ -24,13 +24,14 @@ const HeaderStyled = styled.div`
 const TitleBanner = styled.h1`
   background: rgba(0,0,0,.7);
   color: white; 
-  width: 500px;
+  max-width: 450px;
   position: fixed; 
   left: 95px;  
   top: 20px; 
   padding: .5rem 1rem; 
   font-size: 1.25rem; 
-  visibility: hidden; 
+  //visibility: hidden; 
+  z-index: 200;
 `
 
 const HomeIcon = styled.img`
