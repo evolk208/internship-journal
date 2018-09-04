@@ -19,15 +19,15 @@ import opioidImg from '../../img/larimer.png';
 import ngoImg from '../../img/globe.png'; 
 import storyMapsImg from '../../img/rohinga.png';
 import taImg from '../../img/ta.png';
+import esriTrainingImg from '../../img/esri-training.png';
 import jamImg from '../../img/jam.jpg';
 
 const imageObject = {
   "Esri in One Hour: Michael Gaigg on UI/UX Design": foothillsImg, 
-
   "GIS in Higher Education Workshop": collectorImg, 
   "Esri in One Hour: Andy Gup on the JSAPI and Product Management": jsapiImg, 
   "DISC Communication Workshop": discImg, 
-  "Esri in One Hour: Ben Shaub on the EEAP": eeapImg, 
+  "Esri in One Hour: Ben Schaub on the EEAP": eeapImg, 
   "Intern Connect: The Future of ArcGIS": realtimeImg, 
   "Esri in One Hour: GIS in Education, with Esther Worker": campusImg, 
   "Esri in One Hour: The ArcGIS Platform, with Jeremy Mirmelstein": platformImg, 
@@ -42,7 +42,8 @@ const imageObject = {
   "Esri in One Hour: Sam Libby on Nonprofits and NGOs": ngoImg, 
   "Esri in One Hour: Alison Sizer on Story Maps": storyMapsImg,
   "Esri in One Hour: Kim Rohrs on Technical Advising": taImg, 
-  "Thank You, Josh Peterson!": jamImg,
+  "Esri in One Hour: Katy Dalton on Training": esriTrainingImg,
+  "Thank You, Josh Peterson!": jamImg
 }
 
 const ArticleBoxBackground = styled.div` 
