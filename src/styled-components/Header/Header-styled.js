@@ -32,6 +32,16 @@ const TitleBanner = styled.h1`
   font-size: 1.25rem; 
   //visibility: hidden; 
   z-index: 200;
+  @media only screen and (max-device-width: 830px) {
+    font-size: .9rem; 
+    max-width: 60%;
+    max-height: 50px; 
+  }
+  @media only screen and (max-width: 830px) {
+    font-size: .85rem; 
+    max-width: 60%;
+    height: 50px; 
+  }
 `
 
 const HomeIcon = styled.img`
@@ -42,6 +52,15 @@ const HomeIcon = styled.img`
     top: 0; 
     left: 0;  
     z-index: 100; 
+`
+
+const MobileMenu = styled.div`
+   display: none; 
+
+
+   @media only screen and (max-width: 830px) {
+     display: block; 
+   }
 `
 
 

@@ -14,7 +14,12 @@ import livingAtlasImg from '../../img/living-atlas-catalog.png';
 import redlandsGISImg from '../../img/redlands-map.png';
 import GIPImg from '../../img/GIP.png';
 import esriImg from '../../img/esri-old.png'; 
-import storyMapsImg from '../../img/storymap-intro.png';
+import psImg from '../../img/location-intelligence.png'; 
+import opioidImg from '../../img/larimer.png'; 
+import ngoImg from '../../img/globe.png'; 
+import storyMapsImg from '../../img/rohinga.png';
+import taImg from '../../img/ta.png';
+import jamImg from '../../img/jam.jpg';
 
 const imageObject = {
   "Esri in One Hour: Michael Gaigg on UI/UX Design": foothillsImg, 
@@ -31,7 +36,13 @@ const imageObject = {
   "ConnectUp with Phil Mielke": redlandsGISImg, 
   "Green Infrastructure Project": GIPImg,
   "Professional Services Open Meeting": esriImg, 
-  "Intro to Story Maps": foothillsImg
+  "Professional Services Intern Meeting": psImg, 
+  "Intro to Story Maps": foothillsImg, 
+  "Opioid Mapping Convention": opioidImg, 
+  "Esri in One Hour: Sam Libby on Nonprofits and NGOs": ngoImg, 
+  "Esri in One Hour: Alison Sizer on Story Maps": storyMapsImg,
+  "Esri in One Hour: Kim Rohrs on Technical Advising": taImg, 
+  "Thank You, Josh Peterson!": jamImg,
 }
 
 const ArticleBoxBackground = styled.div` 
@@ -54,6 +65,11 @@ const ArticleBoxBackground = styled.div`
       z-index: 15; 
       transform: scale(1.02); 
   }
+  @media only screen and (max-device-width: 830px) {
+    width: 100%; 
+    margin: 5px;
+    height: 55vh;
+  }
 `
 const ArticleBox = styled.div`{
   box-sizing: border-box; 
@@ -61,7 +77,7 @@ const ArticleBox = styled.div`{
   border: 1px solid rgba(0,0,0,0); 
   width: 100%; 
   height: 100%; 
-   
+  text-align: center; 
   .title {
       margin-top: 10%; 
       position: relative;
@@ -124,6 +140,22 @@ const ArticleBox = styled.div`{
       -o-transition: all 0.3s ease-in-out;
       transition: all 0.3s ease-in-out;
       z-index: 2; 
+    }
+    @media only screen and (max-device-width: 830px) {
+      .title {
+        visibility: visible; 
+        opacity: 1;
+        background: rgba(255,255,255,.8);
+        font-size: 1.5rem;
+      }
+      .excerpt {
+        visibility: visible; 
+      }
+      .date {
+        visibility: visible; 
+        background: rgba(255,255,255,.8);
+        font-size: 1rem;
+      }
     }
   `
   const BoxContent = styled.div`

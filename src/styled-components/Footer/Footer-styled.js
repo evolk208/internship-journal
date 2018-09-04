@@ -1,7 +1,7 @@
 import styled from "styled-components"
 
 const Footer = styled.footer`
-    background: rgba(0, 102, 0, .9); 
+    background: rgba(0,0,128, 1); 
     display: block; 
     position: relative; 
     bottom: 0; 
@@ -14,16 +14,13 @@ const Footer = styled.footer`
         padding: 0; 
         line-height: 1 !important;
         color: ghostwhite; 
-        opacity: .8;
-    }
-    a { 
-        color: rgba(0,0,128, 1); 
+        opacity: .9;
     }
     a:hover {
         font-size: 1rem; 
-        transition: all linear 300ms;
+        transition: all ease-in-out 100ms;
         color: white;
-        opacity: .6;
+        opacity: .8;
     }
 `
 export default Footer 

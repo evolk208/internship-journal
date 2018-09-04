@@ -3,7 +3,7 @@ import styled from "styled-components";
 const PostWrapper = styled.div`
   box-sizing: border-box;
   margin: 0 auto;
-  max-width: 800px;
+  max-width: 85%;
   margin-bottom: 1.5em;
   margin-top: 25px; 
   padding: 2em;
@@ -17,35 +17,44 @@ const PostWrapper = styled.div`
   p {
     color: black;
   }
+  @media only screen and (max-device-width: 830px) {
+    margin-top: 50px;
+  }
 `
 
 const RArrow = styled.img`
-    padding: 10px; 
+    padding: 3px; 
     position: fixed; 
     top: 50%;  
-    width: 4rem; 
-    height: 4rem; 
-    right: 1%; 
+    width: 3.5rem; 
+    height: 3.5rem; 
+    right: .75%; 
     opacity: .4; 
     :hover {
-        right: 0%; 
+        right: 0; 
         opacity: .75; 
         transition: all 135ms ease-in-out; 
     }
 `
 const LArrow = styled.img`
-    padding: 10px; 
+    padding: 3px; 
     position: fixed; 
     top: 50%;  
-    width: 4rem; 
-    height: 4em; 
-    left: 1%;
+    width: 3.5rem; 
+    height: 3.5em; 
+    left: .75%;
     opacity: .4; 
     :hover {
-        left: 0%; 
+        left: 0; 
         opacity: .75; 
         transition: all 135ms ease-in-out; 
     }
 `
+
+
+const MobileMenu = styled.div`
+   display: none; 
+
+`
 // export default PostWrapper;
-export { PostWrapper, LArrow, RArrow }
+export { PostWrapper, LArrow, RArrow, MobileMenu }

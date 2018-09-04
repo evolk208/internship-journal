@@ -2,7 +2,7 @@ import React from 'react'
 import Helmet from 'react-helmet'
 import Link from 'gatsby-link'
 import get from 'lodash/get'
-import { PostWrapper, LArrow, RArrow } from "../styled-components/Post/Post-styled"
+import { PostWrapper, LArrow, RArrow, MobileMenu } from "../styled-components/Post/Post-styled"
 import { PageBackground } from "../styled-components/ArticleBox/ArticleBox-styled"
 
 import Bio from '../components/Bio.js'
