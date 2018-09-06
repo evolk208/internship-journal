@@ -22,26 +22,26 @@ import styled from "styled-components"
 // import jamImg from '../../img/jam.jpg';
 
 const imageObject = {
-  "Esri in One Hour: Michael Gaigg on UI/UX Design": '/static/img/foothills-scene.png', 
-  "GIS in Higher Education Workshop": '/static/img/mobile-apps.png', 
-  "Esri in One Hour: Andy Gup on the JSAPI and Product Management": '/static/img/jsapi.png', 
-  "DISC Communication Workshop": '/static/img/disc.png', 
-  "Esri in One Hour: Ben Schaub on the EEAP": '/static/img/eeap-crop.png', 
-  "Intern Connect: The Future of ArcGIS": '/static/img/real-time.png', 
-  "Esri in One Hour: GIS in Education, with Esther Worker": '/static/img/campus-gis.png', 
-  "Esri in One Hour: The ArcGIS Platform, with Jeremy Mirmelstein": '/static/img/platform.png', 
-  "Esri in One Hour: Stacia Taggart on GIS in Transportation": '/static/img/nysdot-traffic.png', 
-  "Intern Connect: Living Atlas, with Jennifer Bell and Lisa Berry": '/static/img/living-atlas-catalog.png', 
-  "ConnectUp with Phil Mielke": '/static/img/redlands-map.png', 
-  "Green Infrastructure Project": '/static/img/GIP.png',
-  "Professional Services Open Meeting": '/static/img/esri-old.png', 
-  "Professional Services Intern Meeting": '/static/img/location-intelligence.png', 
-  "Intro to Story Maps": '/static/img/foothills-scene.png', 
-  "Opioid Mapping Convention": '/static/img/larimer.png', 
-  "Esri in One Hour: Alison Sizer on Story Maps": '/static/img/rohinga.png',
-  "Esri in One Hour: Kim Rohrs on Technical Advising": '/static/img/ta.png', 
-  "Esri in One Hour: Katy Dalton on Training": '/static/img/esri-training.png',
-  "Thank You, Josh Peterson!": '/static/img/jam.jpg'
+  "Esri in One Hour: Michael Gaigg on UI/UX Design": '/img/foothills-scene.png', 
+  "GIS in Higher Education Workshop": '/img/mobile-apps.png', 
+  "Esri in One Hour: Andy Gup on the JSAPI and Product Management": '/img/jsapi.png', 
+  "DISC Communication Workshop": '/img/disc.png', 
+  "Esri in One Hour: Ben Schaub on the EEAP": '/img/eeap-crop.png', 
+  "Intern Connect: The Future of ArcGIS": '/img/real-time.png', 
+  "Esri in One Hour: GIS in Education, with Esther Worker": '/img/campus-gis.png', 
+  "Esri in One Hour: The ArcGIS Platform, with Jeremy Mirmelstein": '/img/platform.png', 
+  "Esri in One Hour: Stacia Taggart on GIS in Transportation": '/img/nysdot-traffic.png', 
+  "Intern Connect: Living Atlas, with Jennifer Bell and Lisa Berry": '/img/living-atlas-catalog.png', 
+  "ConnectUp with Phil Mielke": '/img/redlands-map.png', 
+  "Green Infrastructure Project": '/img/GIP.png',
+  "Professional Services Open Meeting": '/img/esri-old.png', 
+  "Professional Services Intern Meeting": '/img/location-intelligence.png', 
+  "Intro to Story Maps": '/img/foothills-scene.png', 
+  "Opioid Mapping Convention": '/img/larimer.png', 
+  "Esri in One Hour: Alison Sizer on Story Maps": '/img/rohinga.png',
+  "Esri in One Hour: Kim Rohrs on Technical Advising": '/img/ta.png', 
+  "Esri in One Hour: Katy Dalton on Training": '/img/esri-training.png',
+  "Thank You, Josh Peterson!": '/img/jam.jpg'
 }
 
 // const imageObject = {

@@ -19,7 +19,7 @@ class Template extends React.Component {
         <HeaderStyled>
         <h1>
           <Link to={'/'} >
-            <HomeIcon alt="Home button" src='/static/img/favicon-1.png' className={styles.animationOne}/>
+            <HomeIcon alt="Home button" src='/img/favicon-1.png' className={styles.animationOne}/>
           </Link>
         </h1>
         <TitleBanner className="title">
@@ -31,7 +31,7 @@ class Template extends React.Component {
       header = (
         <h3>
           <Link to={'/'} >
-            <HomeIcon alt="Home button" src='/static/img/favicon-1.png' className={styles.animationSpin}/>
+            <HomeIcon alt="Home button" src='/img/favicon-1.png' className={styles.animationSpin}/>
           </Link>
         </h3>
       )
