@@ -7,9 +7,9 @@ import { PageBackground } from "../styled-components/ArticleBox/ArticleBox-style
 
 import Bio from '../components/Bio.js'
 
-import { HomeIcon } from '../styled-components/img/favicon-1.png'
-import Larrow from '../styled-components/img/arrow-left.png'
-import Rarrow from '../styled-components/img/arrow-right.png'
+// import { HomeIcon } from '../styled-components/img/favicon-1.png'
+// import Larrow from '../styled-components/img/arrow-left.png'
+// import Rarrow from '../styled-components/img/arrow-right.png'
 
 class BlogPostTemplate extends React.Component {
   render() {
@@ -36,14 +36,14 @@ class BlogPostTemplate extends React.Component {
       {/*Next and previous buttons*/}
           {previous && (
             <Link to={previous.fields.slug} rel="prev">
-              <LArrow src={Larrow} />  
+              <LArrow src='/static/img/arrow-left.png' />  
                 {/* {previous && previous.frontmatter.title} */}
             </Link>
            
           )}
           {next && (
               <Link to={next.fields.slug} rel="next">
-                <RArrow src={Rarrow} />
+                <RArrow src='/static/img/arrow-right.png' />
                 {/* {next && next.frontmatter.title}  */}
               </Link>
              

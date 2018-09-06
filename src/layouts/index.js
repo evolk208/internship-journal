@@ -7,7 +7,7 @@ import Footer from "../styled-components/Footer/Footer-styled"
 
 import  "../styled-components/theme/BlogTheme"
 
-import Icon from '../styled-components/img/favicon-1.png'
+// import Icon from '../styled-components/img/favicon-1.png'
 import styles from './style.module.css'
 
 class Template extends React.Component {
@@ -19,7 +19,7 @@ class Template extends React.Component {
         <HeaderStyled>
         <h1>
           <Link to={'/'} >
-            <HomeIcon alt="Home button" src={Icon} className={styles.animationOne}/>
+            <HomeIcon alt="Home button" src='/static/img/favicon-1.png' className={styles.animationOne}/>
           </Link>
         </h1>
         <TitleBanner className="title">
@@ -31,7 +31,7 @@ class Template extends React.Component {
       header = (
         <h3>
           <Link to={'/'} >
-            <HomeIcon alt="Home button" src={Icon} className={styles.animationSpin}/>
+            <HomeIcon alt="Home button" src='/static/img/favicon-1.png' className={styles.animationSpin}/>
           </Link>
         </h3>
       )
